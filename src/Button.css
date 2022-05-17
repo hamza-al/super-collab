@@ -1,0 +1,37 @@
+
+
+.home-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 406.87px;
+    height: 215.34px;
+    left: 757.16px;
+    top: 385.3px;
+    background: #222831;
+    border-radius: 40px;
+    color: aliceblue;
+    font-size: xx-large;
+    
+
+}
+
+
+@media only screen and (max-width: 700px) {
+
+    .home-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 250.87px;
+            height: 215.34px;
+            left: 757.16px;
+            top: 385.3px;
+            background: #222831;
+            border-radius: 40px;
+            color: #eeeeee;
+            font-size: xx-large;
+    
+    
+        }
+}
